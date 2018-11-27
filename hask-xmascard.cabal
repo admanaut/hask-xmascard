@@ -20,3 +20,4 @@ executable hask-xmascard
   build-depends:       base >= 4.7 && < 5
                      , stm-conduit
                      , stm-chans
+                     , text
